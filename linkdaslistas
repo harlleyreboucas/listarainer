@@ -1,7 +1,13 @@
-<script>
-        window.location.href = "https://bit.ly/3CTvpLS";
+<html>
+  <head>
+    <title>Pagina 1</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    Pagina exemplo 1
+
+    <script>
+        window.location.href = "http://www.devmedia.com.br/";
     </script>
-
-
-
-
+  </body>
+</html>
