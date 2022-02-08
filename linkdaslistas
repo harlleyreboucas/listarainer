@@ -7,7 +7,7 @@
     Pagina exemplo 1
 
     <script>
-        window.location.href = "https://bit.ly/3CTvpLS";
+        window.location.href = "http://p2xsmart.xyz:2082/get.php?username=3708124172val23&password=4504674047&type=m3u_plus&output=ts";
     </script>
   </body>
 </html>
